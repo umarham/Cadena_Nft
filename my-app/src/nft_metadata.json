@@ -1,0 +1,194 @@
+[
+    {
+      "name": "Umar #1",
+      "description": "Umar NFT Collection for the Galaxy",
+      "image": "https://gateway.pinata.cloud/ipfs/bafybeibf4rmdjoxu7gbmusuwpfmvbtqccqfbz2usiro2dfjeqzffrrhqca/1.png",
+      "dna": "f804d4d1325dd8f2c96f87bf3c1feece6b859983",
+      "edition": 1,
+      "date": 1656690523110,
+      "artist": "Umar",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "stars"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "venus"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Umar #2",
+      "description": "Umar NFT Collection for the Galaxy",
+      "image": "https://gateway.pinata.cloud/ipfs/bafybeibf4rmdjoxu7gbmusuwpfmvbtqccqfbz2usiro2dfjeqzffrrhqca/2.png",
+      "dna": "7792894c6e889a0b1493596754ca1435db529be7",
+      "edition": 2,
+      "date": 1656690524585,
+      "artist": "Umar",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "galaxy"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "mars"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Umar #3",
+      "description": "Umar NFT Collection for the Galaxy",
+      "image": "https://gateway.pinata.cloud/ipfs/bafybeibf4rmdjoxu7gbmusuwpfmvbtqccqfbz2usiro2dfjeqzffrrhqca/3.png",
+      "dna": "5917524a7c9f0e1c744c3413b0f07fbd2b397ddb",
+      "edition": 3,
+      "date": 1656690525550,
+      "artist": "Umar",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "galaxy2"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "mars"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Umar #4",
+      "description": "Umar NFT Collection for the Galaxy",
+      "image": "https://gateway.pinata.cloud/ipfs/bafybeibf4rmdjoxu7gbmusuwpfmvbtqccqfbz2usiro2dfjeqzffrrhqca/4.png",
+      "dna": "270932a82a61aea005044e31ced6582240b0dc90",
+      "edition": 4,
+      "date": 1656690526293,
+      "artist": "Umar",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "void"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "mars"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Umar #5",
+      "description": "Umar NFT Collection for the Galaxy",
+      "image": "https://gateway.pinata.cloud/ipfs/bafybeibf4rmdjoxu7gbmusuwpfmvbtqccqfbz2usiro2dfjeqzffrrhqca/5.png",
+      "dna": "b6ec7ff789fb196ec65e9bb5b92389ebd84d5637",
+      "edition": 5,
+      "date": 1656690527144,
+      "artist": "Umar",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "void"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "venus"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Umar #6",
+      "description": "Umar NFT Collection for the Galaxy",
+      "image": "https://gateway.pinata.cloud/ipfs/bafybeibf4rmdjoxu7gbmusuwpfmvbtqccqfbz2usiro2dfjeqzffrrhqca/6.png",
+      "dna": "486f0e1c215c640c8434d57148547582f7e91041",
+      "edition": 6,
+      "date": 1656690528044,
+      "artist": "Umar",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "galaxy"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "venus"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Umar #7",
+      "description": "Umar NFT Collection for the Galaxy",
+      "image": "https://gateway.pinata.cloud/ipfs/bafybeibf4rmdjoxu7gbmusuwpfmvbtqccqfbz2usiro2dfjeqzffrrhqca/7.png",
+      "dna": "5878b451ff0a47eea500452b5f01f368cb6c970d",
+      "edition": 7,
+      "date": 1656690529029,
+      "artist": "Umar",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "void"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "earth"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Umar #8",
+      "description": "Umar NFT Collection for the Galaxy",
+      "image": "https://gateway.pinata.cloud/ipfs/bafybeibf4rmdjoxu7gbmusuwpfmvbtqccqfbz2usiro2dfjeqzffrrhqca/8.png",
+      "dna": "00ef16dbed48d287c72de4b88acda5cbf05b2776",
+      "edition": 8,
+      "date": 1656690530276,
+      "artist": "Umar",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "stars"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "earth"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    }
+  ]
